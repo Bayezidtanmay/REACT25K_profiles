@@ -1,4 +1,5 @@
-👋 Hey everyone, I am Bayezid Rahman Tanmay, a prospective full-stack web developer. 👋 🎓 Studying Full Stack Web Development Program at Business College Helsinki.
+👋 Hey everyone, I am Bayezid Rahman Tanmay, a prospective full-stack web developer. 👋 
+🎓 Studying Full Stack Web Development Program at Business College Helsinki.
 
 I am not just someone who writes code, am crafting virtual spaces where ideas come to life. 😎
 
@@ -17,6 +18,7 @@ Being a developer more than just a job 💯💯
 🔗 https://www.linkedin.com/in/bayezid-rahman-13b026285/
 🔗 https://portfolio-site-flax-theta.vercel.app/
 📩 bayzidtonmoy123@gmail.com
+
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English | 🇫🇮 Finnish 🏡 Helsinki, Finland
 
 🤘 Hobbies
